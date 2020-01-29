@@ -24,7 +24,6 @@ public class GameEnding : MonoBehaviour
         if (other.gameObject == player)
         {
             m_IsPlayerAtExit = true;
-
         }
     }
 

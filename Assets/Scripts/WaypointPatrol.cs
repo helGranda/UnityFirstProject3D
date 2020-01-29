@@ -13,7 +13,6 @@ public class WaypointPatrol : MonoBehaviour
     void Start()
     {
         navMeshAgent.SetDestination(waypoints[0].position);
-
     }
 
     void Update()
