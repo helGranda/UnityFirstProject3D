@@ -1,4 +1,4 @@
 # UnityFirstProject3D
 A complete game level in Unity. 3D Beginner Project.
 
-![alt text](/Screen Shot 2020-01-29 at 06.42.24.png "John Lemon’s Haunted Jaunt: 3D Beginner Project")
+![Image alt](https://github.com/helGranda/UnityFirstProject3D/blob/master/Screen%20Shot%202020-01-29%20at%2006.42.24.png "John Lemon’s Haunted Jaunt: 3D Beginner Project")
